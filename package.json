@@ -1,0 +1,26 @@
+{
+  "name": "yhc-openclaw-test",
+  "version": "1.0.0",
+  "description": "Test project created by OpenClaw AI assistant",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "openclaw",
+    "test",
+    "github",
+    "automation"
+  ],
+  "author": "于洪潮 (yuu6)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuu6/yhc_openclaw_test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yuu6/yhc_openclaw_test/issues"
+  },
+  "homepage": "https://github.com/yuu6/yhc_openclaw_test#readme"
+}
